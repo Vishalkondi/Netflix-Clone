@@ -85,6 +85,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Your Name - [@vishalkondi]
 
 Project Link: [https://github.com/yourusername/netflix-clone](https://github.com/yourusername/netflix-clone)
